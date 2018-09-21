@@ -25,8 +25,8 @@ leftmenuitem();
 <div id="content">
 	<h2>About ME!</h2>
 	<h3>Personal Information</h3>
-    <h2>Vikas Adicherla</h2>
-	<h3>CEO & Chief programmer of iTech System</h3>
+    <h2>STRIKER TESTING</h2>
+	<h3>For DevOps</h3>
     <p>Date of Birth: 02 nov 1991</p>
     <p>Nationality: Indian</p>
 	<br />
