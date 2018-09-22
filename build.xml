@@ -1,5 +1,0 @@
-<target name="phpunit" description="Run unit tests with PHPUnit">
-   <mkdir dir="${basedir}/application/cache" />
-   <mkdir dir="${basedir}/application/logs" />
-   <exec dir="${basedir}/application/tests" executable="phpunit" failonerror="true" />
- </target>
