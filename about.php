@@ -31,10 +31,10 @@ leftmenuitem();
     <p>Nationality: Indian</p>
 	<br />
 	<h2>Technical Skills and Experiences</h2>
-	<p>PHP</p>
-	<p>SQL</p>
-	<p>HTML</p>
-	<p>CSS</p>
+	<p>Jenkins</p>
+	<p>AWS</p>
+	<p>Dockers</p>
+	<p>Chef/ansible</p>
 	<p>Visual Basic 6.0</p>
 	<p>VB.Net (Basic & C#)</p>
 	<p>Graphics Design (Photoshop)</p>
