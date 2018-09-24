@@ -25,9 +25,9 @@ leftmenuitem();
 <div id="content">
 	<h2>About ME!</h2>
 	<h3>Personal Information</h3>
-    <h2>vikas adicherla</h2>
-	<h3>DevOps Engineer</h3>
-    <p>Date of Birth: 02 nov 1991</p>
+    <h2>Hamid Khan</h2>
+	<h3>PHP Developer</h3>
+    <p>Date of Birth: 08 sep 1984</p>
     <p>Nationality: Indian</p>
 	<br />
 	<h2>Technical Skills and Experiences</h2>
