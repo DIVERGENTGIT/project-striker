@@ -45,7 +45,7 @@ leftmenuitem();
 	<p>Desktop Apllication development</p>
 	<p>Graphics Design</p>
 	<p>Logo Design & Ideas</p>
-	<p>Many more...</p>
+	<p>Many more..</p>
 	
 	<h4>For Freelance Please contact with us</h4>
 	</div>
