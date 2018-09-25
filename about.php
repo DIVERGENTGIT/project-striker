@@ -37,7 +37,7 @@ leftmenuitem();
 	<p>CSS</p>
 	<p>Visual Basic 6.0</p>
 	<p>VB.Net (Basic & C#)</p>
-	<p>Graphics Design (Photoshop)</p>
+	<p>Graphics Design (Photoshoper)</p>
 	<br />
 	<h2>Company Services</h2>
 	<p>Web Design</p>
