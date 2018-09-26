@@ -25,9 +25,9 @@ leftmenuitem();
 <div id="content">
 	<h2>About ME!</h2>
 	<h3>Personal Information</h3>
-    <h2>STRIKER TESTING</h2>
-	<h3>For DevOps</h3>
-    <p>Date of Birth: 02 nov 1991</p>
+    <h2>Hamid Khan</h2>
+	<h3>PHP Developer</h3>
+    <p>Date of Birth: 08 sep 1984</p>
     <p>Nationality: Indian</p>
 	<br />
 	<h2>Technical Skills and Experiences</h2>
@@ -37,7 +37,7 @@ leftmenuitem();
 	<p>CSS</p>
 	<p>Visual Basic 6.0</p>
 	<p>VB.Net (Basic & C#)</p>
-	<p>Graphics Design (Photoshop)</p>
+	<p>Graphics Design (Photoshoper)</p>
 	<br />
 	<h2>Company Services</h2>
 	<p>Web Design</p>
@@ -45,7 +45,7 @@ leftmenuitem();
 	<p>Desktop Apllication development</p>
 	<p>Graphics Design</p>
 	<p>Logo Design & Ideas</p>
-	<p>Many more...</p>
+	<p>Many more.......</p>
 	
 	<h4>For Freelance Please contact with us</h4>
 	</div>
